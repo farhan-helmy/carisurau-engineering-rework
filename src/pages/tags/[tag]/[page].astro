@@ -7,8 +7,8 @@ import DefaultPageLayout from '$/layouts/default.astro'
 import PostPreviewList from '$/components/PostPreviewList.astro'
 import Paginator from '$/components/Paginator.astro'
 
-let title = 'Posts By Tags'
-let description = 'All the articles posted so far...'
+let title = 'Cari hantaran melalui tag'
+let description = '...'
 
 export async function getStaticPaths({ paginate }) {
   const allPosts = await getCollection('blog')
