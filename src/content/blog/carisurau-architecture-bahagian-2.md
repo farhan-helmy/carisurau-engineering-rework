@@ -26,7 +26,7 @@ Keputusan Carisurau untuk di deploy / host menggunakan Docker adalah keputusan j
 
 Dalam membina sesebuah aplikasi, cara fikir saya akan merangkumi pelbagai aspek. Sebelum bermula, saya akan sekurang-kurangnya menghabiskan masa selama satu hingga ke dua minggu sebelum membuat keputusan tersebut. Untuk Carisurau, perkara utama yang saya ambil kira adalah KOS untuk maintain. Seperti yang anda semua tahu, Carisurau adalah self-funded, non-profit app. Saya tidak membuat atau mengambil apa-apa untung membuat Carisurau ini.
 
-Jadi berbalik kepada men-Dockerkan aplikasi Carisurau, saya perlu fikir dimana saya boleh host aplikasi ini. Ada beberapa tools / platform yang berada di dalam kepala saya, antaranya ialah **AWS ECS**, **self-host server -> install Docker**, **Fly.io** dan **Host dekat rumah**. Platform-platform ini menyediakan tempat untuk saya host Carisurau menggunakan Docker. Dan setelah mengkaji, saya menolak **AWS ECS**, **self-host server -> install Docker** dan **Fly.io** kerana ia melibatkan cost yang agak tinggi bulanan (sebenarnya tak tinggi mana tapi agak menambah komitmen). 
+Jadi berbalik kepada men-Dockerkan aplikasi Carisurau, saya perlu fikir dimana saya boleh host aplikasi ini. Ada beberapa tools / platform yang berada di dalam kepala saya, antaranya ialah AWS ECS, self-host server -> install Docker, Fly.io dan Host dekat rumah. Platform-platform ini menyediakan tempat untuk saya host Carisurau menggunakan Docker. Dan setelah mengkaji, saya menolak AWS ECS, self-host server -> install Docker dan Fly.io kerana ia melibatkan cost yang agak tinggi bulanan (sebenarnya tak tinggi mana tapi agak menambah komitmen). 
 
 ### Keputusan pertama dibuat
 
