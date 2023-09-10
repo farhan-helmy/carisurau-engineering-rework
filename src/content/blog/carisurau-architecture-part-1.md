@@ -1,5 +1,5 @@
 ---
-title: Carisurau Architecture - Part 1
+title: Carisurau Architecture - Bahagian 1
 description: Bagaimana saya deploy dan host carisurau dengan minimal cost setiap bulan?
 tags:
   - architecture
@@ -7,11 +7,11 @@ author: Farhan Helmy
 authorTwitter: farhanhelmycode
 date: "2023-08-26T12:23:31.210Z"
 authorImage: https://avatars.githubusercontent.com/u/59960562?v=4
-image: https://dev.tempahjer.com/images/carisuraupart1.png
+image: https://engineering.carisurau.com/images/carisuraupart1.png
 category: architecture
 ---
 
-# Bagaimana saya deploy dan host carisurau dengan minimal cost setiap bulan?
+ # Bagaimana saya deploy dan host carisurau dengan minimal cost setiap bulan?
 
 ---
 

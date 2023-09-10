@@ -34,7 +34,7 @@ export const SITE = {
     // Author: Image external source
     authorImage: 'https://avatars.githubusercontent.com/u/59960562?v=4', // Example: https://pbs.twimg.com/profile_images/1272979356529221632/sxvncugt_400x400.jpg, https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     // Author: Bio
-    authorBio: 'Junior SWE, Indie DEV, Pencinta Open Source'
+    authorBio: 'Engineer @ Carisurau.com'
 }
 
 // Ink - Theme configuration
